@@ -1,5 +1,5 @@
 def capitalize(string: str):
-    return input_string.lower()
+    return input_string.upper()
 
 
 if __name__ == "__main__":
