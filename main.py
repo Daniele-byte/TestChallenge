@@ -1,7 +1,7 @@
 import argparse
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description="Do you like CAPITALIZED strings??? Here's a tool to capitalize them! just put  a string and it will be capitalized")
+    parser = argparse.ArgumentParser(description="Do you like CAPITALIZED strings??? Here's a tool to capitalize them! Just put a string and it will be capitalized")
     parser.add_argument('N', type=int, help='how many strings??')
     return parser.parse_args()
 
