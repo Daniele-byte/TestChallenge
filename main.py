@@ -29,8 +29,10 @@ if __name__ == "__main__":
         print("Please give me a string!!!!")
         input_string = input()
         capitalized_string = capitalize(input_string)
-        print("Here is your CAPITALIZED string!!! Enjoy ur day!! :D")
+        print("Here is your CAPITALIZED string!!!")
         capitalized.append(capitalized_string)
         print(capitalized_string)
     t = post_on_pastebin('\n'.join(capitalized))
+    print("Here's your link, enjoy ur day!!!")
+    print(t)
 
