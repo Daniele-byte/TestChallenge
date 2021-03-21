@@ -1,5 +1,7 @@
 # Capitalize-inator 9000
 
+![logo](ilovegraphicdesign.png)
+
 this program takes a string and makes it uppercase!
 
 to use this:
