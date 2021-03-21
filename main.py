@@ -1,6 +1,7 @@
 import requests
 
-PASTEBIN_API_KEY='NOTHING TO SEE HERE'
+with open('key.txt') as f:
+    PASTEBIN_API_KEY = f.read()
 
 def capitalize(string: str):
     return input_string.upper()
