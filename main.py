@@ -1,6 +1,6 @@
 import requests
 
-PASTEBIN_API_KEY='flag{0h_n0_my_4p1_k3y}'
+PASTEBIN_API_KEY='NOTHING TO SEE HERE'
 
 def capitalize(string: str):
     return input_string.upper()
