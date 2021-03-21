@@ -1,4 +1,3 @@
-
 def capitalize_string(string: str):
     return input_string.lower()
 
